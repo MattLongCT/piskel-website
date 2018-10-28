@@ -2,3 +2,6 @@
 
 User-agent: *
 Disallow: /p/templates/
+
+User-agent: AskJeeves
+Crawl-delay: 10
